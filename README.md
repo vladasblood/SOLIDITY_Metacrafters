@@ -13,7 +13,7 @@ The program is a basic smart contract on the Ethereum blockchain written in Soli
 To run this program, one can utilize the provided IDE for Solidity which is Remix. To access the website, please direct to this site [Remix IDE](https://remix.ethereum.org/)
 
 Once you are on the website, create a new file on the "+" icon in the left-handed sidebar. Save the file with a `.sol` extension (e.g., MyToken.sol). Copy and paste the following code into the file:
-```
+```javascript
 // SPDX-License-Identifier: MIT
 pragma solidity 0.8.18;
 
